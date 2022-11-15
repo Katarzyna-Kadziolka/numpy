@@ -4,7 +4,9 @@ Building and installing NumPy
 **IMPORTANT**: the below notes are about building NumPy, which for most users
 is *not* the recommended way to install NumPy.  Instead, use either a complete
 scientific Python distribution (recommended) or a binary installer - see
-https://scipy.org/install.html.
+https://scipy.org/install.html. Blublu
+Blublu
+Lala
 
 
 .. Contents::
