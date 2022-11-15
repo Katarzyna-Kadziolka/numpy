@@ -1,4 +1,8 @@
 Travis Oliphant for the NumPy core, the NumPy guide, various
+
+przerwa
+
+
     bug-fixes and code contributions.
 Paul Dubois, who implemented the original Masked Arrays.
 Pearu Peterson for f2py, numpy.distutils and help with code
