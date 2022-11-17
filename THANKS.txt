@@ -1,6 +1,7 @@
 Travis Oliphant for the NumPy core, the NumPy guide, various
 
 przerwa
+blublublbu
 
 
     bug-fixes and code contributions.
