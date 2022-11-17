@@ -13,6 +13,11 @@ Robert Kern for mtrand, bug fixes, help with distutils, code
 Eric Jones for planning and code contributions.
 Fernando Perez for code snippets, ideas, bugfixes, and testing.
 Ed Schofield for matrix.py patches, bugfixes, testing, and docstrings.
+
+
+tu też
+
+
 Robert Cimrman for array set operations and numpy.distutils help.
 John Hunter for code snippets from matplotlib.
 Chris Hanley for help with records.py, testing, and bug fixes.
